@@ -3,7 +3,7 @@ import AutoSidebar from 'vite-plugin-vitepress-auto-sidebar'
 
 export default defineConfig({
 	lang: 'zh-CN',
-	base: '/',
+	base: '/VCBot/',
 	title: 'VCBot',
 	description: '',
         head: [
